@@ -1,0 +1,6 @@
+arr = input().split()
+res = []
+for elem in arr:
+    if elem.isdigit():
+        res.append(int(elem))
+print(res)
