@@ -12,10 +12,10 @@ Script was made for testing web scenario with five steps:
 
 1. Logging in
 
-2. Going to workshift adding form
+2. Going to job adding form
 
-3. Adding new workshift with specific content 
+3. Adding new job with specific content 
 
 4. Check if data is added
 
-5. Deleting new workshift and making sure if data is deleted
+5. Deleting new job and making sure if data is deleted
